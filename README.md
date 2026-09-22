@@ -13,7 +13,3 @@ Software engineer with a marketing background. Web products end to end: the data
   <img src="https://img.shields.io/badge/Hono-1c1f26?style=for-the-badge&logo=hono&logoColor=E36002" alt="Hono">
   <img src="https://img.shields.io/badge/PlayCanvas-1c1f26?style=for-the-badge&logo=playcanvas&logoColor=E4523D" alt="PlayCanvas">
 </p>
-
-### Now
-
-[Obby](https://nazim.github.io/obby/), a browser 3D platformer demo built with PlayCanvas.
